@@ -1,5 +1,3 @@
-# misa-edu
-
 ## Project setup
 ```
 yarn install
