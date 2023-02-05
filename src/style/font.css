@@ -1,0 +1,66 @@
+.font-h1 {
+    font-family: Roboto,Helvetica,Arial,sans-serif;
+    font-size: 32px;
+    font-style: Bold;
+    line-height: 35px;
+}
+.font-h2 {
+    font-family: Roboto,Helvetica,Arial,sans-serif;
+    font-size: 28px;
+    font-style: Bold;
+    line-height: 32px;
+}
+.font-h3 {
+    font-family: Roboto,Helvetica,Arial,sans-serif;
+    font-size: 24px;
+    font-style: Bold;
+    line-height: 27px;
+}
+.font-h4 {
+    font-family: Roboto,Helvetica,Arial,sans-serif;
+    font-size: 20px;
+    font-style: Bold;
+    line-height: 24px;
+}
+.font-h5 {
+    font-family: Roboto,Helvetica,Arial,sans-serif;
+    font-size: 18px;
+    font-style: Bold;
+    line-height: 21px;
+}
+.font-title {
+    font-family: Roboto,Helvetica,Arial,sans-serif;
+    font-size: 16px;
+    font-style: SemiBold;
+    line-height: 19px;
+}
+.font-btn {
+    font-family: Roboto,Helvetica,Arial,sans-serif;
+    font-size: 14px;
+    font-style: SemiBold;
+    line-height: 19px;
+}
+.font-subtitle {
+    font-family: Roboto,Helvetica,Arial,sans-serif;
+    font-size: 14px;
+    font-style: Regular;
+    line-height: 18px;
+}
+.font-body {
+    font-family: Roboto,Helvetica,Arial,sans-serif;
+    font-size: 14px;
+    font-style: Regular;
+    line-height: 18px;
+}
+.font-subtitle, .font-lable {
+    font-family: Roboto,Helvetica,Arial,sans-serif;
+    font-size: 14px;
+    font-style: Regular;
+    line-height: 18px;
+}
+label {
+    font-family: Roboto,Helvetica,Arial,sans-serif;
+    font-size: 14px;
+    font-style: Regular;
+    line-height: 18px;
+}

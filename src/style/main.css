@@ -1,0 +1,35 @@
+@import url(./font.css);
+body {
+    margin: 0;
+}
+
+.container {
+    width: 100%;
+    height: calc(100vh - 56px);
+    display: flex;
+    
+}
+
+a{
+    text-decoration: none;
+    color: #000;
+}
+
+::-webkit-scrollbar{
+    height: 8px;
+    width: 8px;
+    background: rgba(187, 187, 187, 0.313);
+}
+::-webkit-scrollbar-thumb:horizontal{
+background: #bbb;
+border-radius: 10px;
+}
+::-webkit-scrollbar-thumb:vertical{
+background: #bbb;
+border-radius: 10px;
+}
+
+.dx-sortable {
+    overflow: auto;
+    height: 240px;
+}
